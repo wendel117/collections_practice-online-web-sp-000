@@ -20,7 +20,7 @@ array
 end
 
 def reverse_array(array)
-
+ array.reverse_array
 end
 
 def kesha_maker
